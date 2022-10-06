@@ -5,8 +5,9 @@
 <h2 align="left">About me</h2>
 <ul>
   <li>🔭 I’m currently working remotly on ООО "Чиптюн"</li>
-  <li>😻 I love nodejs </li>
   <li>💼 Now my work experience is 8 month </li>
+  <li>😻 I love nodejs </li>
+  <li>🔫 I like to play csgo </li>
   <li>😎 Smile, you are cool </li>
 </ul>
 
