@@ -32,7 +32,7 @@
 </div>
 
 <h2 align="left">Be in touch</h2>
- <img src="https://img.shields.io/badge/-Telegram-blue" height="32"/> @Scal3
+ <a href="https://t.me/Scal3" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue" height="32"/></a>
 
 
 
