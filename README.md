@@ -33,7 +33,9 @@
 
 <h2 align="left">Be in touch</h2>
  <a href="https://t.me/Scal3" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue" height="32"/></a>
-
+ 
+<h2 align="left">Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scal3" height="32"/>
 
 
 
