@@ -40,6 +40,6 @@
 <h2 align="left">Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scal3)](https://github.com/anuraghazra/github-readme-stats)
-[![Scal3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scal3&&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Scal3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scal3&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 [![codewars](https://www.codewars.com/users/Scal3/badges/small)](https://www.codewars.com/users/Scal3)
 
