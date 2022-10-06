@@ -5,7 +5,7 @@
 <h2 align="left">About me</h2>
 <ul>
   <li>🔭 I’m currently working remotly on ООО "Чиптюн"</li>
-  <li>😻 I love react and nodejs </li>
+  <li>😻 I love nodejs </li>
   <li>💼 Now my work experience is 8 month </li>
   <li>😎 Smile, you are cool </li>
 </ul>
@@ -41,4 +41,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scal3)](https://github.com/anuraghazra/github-readme-stats)
 [![Scal3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scal3)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="left">Some stuff</h2>
+
 [![codewars](https://www.codewars.com/users/Scal3/badges/small)](https://www.codewars.com/users/Scal3)
+![Jokes Card](https://readme-jokes.vercel.app/api)
