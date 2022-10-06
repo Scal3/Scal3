@@ -48,5 +48,5 @@
 
 <div align="left">
   
-[![codewars](https://www.codewars.com/users/Scal3/badges/small)](https://www.codewars.com/users/Scal3)
+[![codewars](https://www.codewars.com/users/Scal3/badges/large)](https://www.codewars.com/users/Scal3)
 </div>
