@@ -34,8 +34,8 @@
 <h2 align="left">Be in touch</h2>
  <a href="https://t.me/Scal3" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue" height="32"/></a>
  
-<h2 align="left">Languages</h2>
-
+<h2 align="left">Stats</h2>
+[![Scal3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scal3)](https://github.com/anuraghazra/github-readme-stats)
 [![Scal3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scal3)](https://github.com/anuraghazra/github-readme-stats)
 
 
