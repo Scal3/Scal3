@@ -1,10 +1,12 @@
 <h1 align="center">Hi there, I'm <a href="https://scal3.github.io/resume/" target="_blank">Herman</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Fullstack dev from Belarus 🇷🇺</h3>
+<h3 align="center">Fullstack dev from Belarus</h3>
 
 <h2 align="left">About me</h2>
-- 🔭 I’m currently working on ООО "Чиптюн"
-- ❤ I love react and nodejs 
+<ul>
+  <li>🔭 I’m currently working on ООО "Чиптюн"</li>
+  <li>❤ I love react and nodejs </li>
+</ul>
 
 <h2 align="left">My stack</h2>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="32"/>
