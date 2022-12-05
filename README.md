@@ -6,7 +6,7 @@
 <ul>
   <li>👨‍🎓 I finished the Yandex Practicum web-developer course (feb. 2021 г. - nov. 2021 г)</li>
   <li>🔭 I’m currently working remotly on ООО "Чиптюн"</li>
-  <li>💼 Now my work experience is 9 months </li>
+  <li>💼 Now my work experience is 10 months </li>
   <li>😻 I love nodejs </li>
   <li>🔫 I like to play csgo </li>
   <li>😎 Smile, you are cool </li>
