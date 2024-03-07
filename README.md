@@ -4,11 +4,12 @@
 
 <h2 align="left">About me</h2>
 <ul>
+  <li>❤️ Java in my heart </li>
   <li>💼 Now my commercial experience is 2+ year </li>
   <li>🔠 English is B2 </li>
-  <li>🔭 I have been studying at the Yandex Practicum Java developer course (jun 2023 - april 2024) </li>
-  <li>👨‍🎓 I have finished the Yandex Practicum web-developer course (feb. 2021 г. - nov. 2021 г) </li>
-  <li>😻 I love programming so much, I have been studying almost every day </li>
+  <li>🔭 I have been studying at the Yandex Practicum Java developer course may. 2024 </li>
+  <li>👨‍🎓 I have finished the Yandex Practicum web-developer course nov. 2021 </li>
+  <li>😻 I love programming so much </li>
   <li>🔫 I like to play games, sport, any activities </li>
   <li>😎 Smile, you are cool </li>
 </ul>
