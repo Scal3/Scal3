@@ -7,8 +7,6 @@
   <li>❤️ Java in my heart </li>
   <li>💼 Now my commercial experience is 2+ year </li>
   <li>🔠 English is B2 </li>
-  <li>🔭 I have been studying at the Yandex Practicum Java developer course may. 2024 </li>
-  <li>👨‍🎓 I have finished the Yandex Practicum web-developer course nov. 2021 </li>
   <li>😻 I love programming so much </li>
   <li>🔫 I like to play games, sport, any activities </li>
   <li>😎 Smile, you are cool </li>
