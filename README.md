@@ -36,7 +36,7 @@
 <h2 align="left">Be in touch</h2>
  <a href="https://t.me/Scal3" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue" height="32"/></a>
  <a href="https://www.linkedin.com/in/herman-barodzich-b794b4229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-brightgreen" height="32"/></a>
- <img src="[https://img.shields.io/badge/mail-cool.goga501%40gmail.com-orange](https://img.shields.io/badge/mail-barodzich.herman%40gmail.com-orange)" height="32"/>
+ <img src="https://img.shields.io/badge/mail-barodzich.herman%40gmail.com-orange" height="32"/>
 
 <h2 align="left">Some stuff</h2>
 
