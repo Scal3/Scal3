@@ -4,11 +4,9 @@
 
 <h2 align="left">About me</h2>
 <ul>
-  <li>❤️ Java in my heart </li>
+  <li>❤️ Java software developer </li>
   <li>💼 Commercial experience is 2+ year </li>
   <li>🔠 English is B2 </li>
-  <li>😻 I love programming so much </li>
-  <li>🔫 I like to play games, sport, any activities </li>
   <li>😎 Smile, you are cool </li>
 </ul>
 
